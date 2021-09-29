@@ -1,2 +1,2 @@
 # uploadProject
-Upload your project
+student projects are uploaded here
